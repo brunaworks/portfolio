@@ -1,3 +1,3 @@
 # Link para o site
 
-[Site portfolio](https://brunancds.github.io/portfolio/)
+[Site portfolio](https://brunaworks.github.io/portfolio/)
