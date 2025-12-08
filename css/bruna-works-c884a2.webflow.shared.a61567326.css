@@ -5642,7 +5642,7 @@ figcaption {
   aspect-ratio: 16 / 9;
   max-width: 70%;
 }
-@media (max-width: 992px) {
+@media (max-width: 991px) {
   .video-2 {
     max-width: 100%;
   }
