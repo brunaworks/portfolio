@@ -5665,6 +5665,7 @@ figcaption {
   aspect-ratio: 16 / 9;
   max-width: 75%;
 }
+
 @media (max-width: 991px) {
   .video-2 {
     max-width: 100%;
@@ -7464,5 +7465,14 @@ figcaption {
 @media screen and (max-width: 479px) {
   #w-node-_83edce5c-03c3-f360-9034-ead8712ffb58-e83c15a3, #w-node-_83edce5c-03c3-f360-9034-ead8712ffb54-e83c15a3 {
     justify-self: center;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .video {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    aspect-ratio: 16 / 9;
   }
 }
