@@ -6001,10 +6001,12 @@ figcaption {
     display: flex;
   }
 
-  .image-5, .image-6, .image-7, .image-8 {
+  @media screen and (min-width: 991px) {
+   .image-5, .image-6, .image-7, .image-8 {
     max-width: 20%;
+   }
   }
-
+  
   .image-10 {
     max-width: 50rem;
   }
