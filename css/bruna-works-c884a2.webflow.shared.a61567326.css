@@ -5628,9 +5628,13 @@ figcaption {
 }
 
 .div-block-28 {
-  max-width: 940px; 
+  position: relative;
   width: 100%;
-  margin: 0 auto;
+  max-width: 940px;       
+  margin: 0 auto;         
+  padding-top: 56.25%;    
+  overflow: hidden;       
+}
 }
 
 @media (max-width: 991px) {
