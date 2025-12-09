@@ -454,9 +454,9 @@ ul, ol {
 }
 
 .w-video {
-  width: 85%;
-  padding: 0;
+  width: 70%;
   position: relative;
+  aspect-ratio: 16 / 9;
 }
 
 .w-video iframe, .w-video object, .w-video embed {
