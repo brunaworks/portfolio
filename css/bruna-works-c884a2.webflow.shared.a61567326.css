@@ -5630,6 +5630,7 @@ figcaption {
 .div-block-28 {
   width: 100%;
   margin: 0 auto;
+  max-width: 1000px;
 }
 
 @media (max-width: 991px) {
@@ -6603,9 +6604,9 @@ figcaption {
 
   .video {
     width: 100%;
-    margin: 0 auto;
     position: relative;
     aspect-ratio: 16 / 9;
+    overflow: hidden;
    }
 
   .paragraph {
@@ -7119,9 +7120,9 @@ figcaption {
 
   .video {
     width: 100%;
-    margin: 0 auto;
     position: relative;
     aspect-ratio: 16 / 9;
+    overflow: hidden;
    }
 
   .image-10 {
@@ -7370,9 +7371,9 @@ figcaption {
 
   .video {
     width: 100%;
-    margin: 0 auto;
     position: relative;
     aspect-ratio: 16 / 9;
+    overflow: hidden;
    }
 
   .image-10 {
