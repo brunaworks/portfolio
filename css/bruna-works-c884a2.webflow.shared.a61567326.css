@@ -5641,22 +5641,24 @@ figcaption {
   .div-block-29 {
     display: flex;
     flex-direction: column;
+    grid-column-gap: 2rem;
+    grid-row-gap: 2rem;
   }
 
   .image-5 {
-    max-width: 60%;
+    max-width: 80%;
   }
   
   .image-6 {
-    max-width: 60%;
+    max-width: 80%;
   }
 
   .image-7 {
-    max-width: 60%;
+    max-width: 80%;
   }
 
   .image-8 {
-    max-width: 60%;
+    max-width: 80%;
   }
 }
 
