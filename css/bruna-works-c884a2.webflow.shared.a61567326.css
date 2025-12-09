@@ -5554,7 +5554,7 @@ figcaption {
 }
 
 .image, .image-2, .image-3, .image-4 {
-  max-width: 15rem;
+  max-width: 20%;
 }
 
 .div-block-22 {
@@ -5926,7 +5926,7 @@ figcaption {
   }
 
   .image, .image-2, .image-3, .image-4 {
-    max-width: 20rem;
+    max-width: 20%;
   }
 
   .text-block, .text-block-2 {
