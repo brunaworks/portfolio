@@ -454,9 +454,7 @@ ul, ol {
 }
 
 .w-video {
-  width: 70%;
   position: relative;
-  aspect-ratio: 16 / 9;
 }
 
 .w-video iframe, .w-video object, .w-video embed {
@@ -5623,7 +5621,10 @@ figcaption {
 }
 
 .video {
-  max-width: 100%;
+  width: 100%;
+  max-width: 940px;
+  margin: 0 auto;
+  position: relative;
   aspect-ratio: 16 / 9;
 }
 
@@ -6605,8 +6606,12 @@ figcaption {
   }
 
   .video {
-    max-width: 100%;
-  }
+    width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    aspect-ratio: 16 / 9;
+   }
 
   .paragraph {
     font-size: 1rem;
@@ -7118,8 +7123,12 @@ figcaption {
   }
 
   .video {
-    min-width: 100%;
-  }
+    width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    aspect-ratio: 16 / 9;
+   }
 
   .image-10 {
     max-width: 100%;
@@ -7366,8 +7375,12 @@ figcaption {
   }
 
   .video {
-    min-width: 100%;
-  }
+    width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
+    position: relative;
+    aspect-ratio: 16 / 9;
+   }
 
   .image-10 {
     max-width: 100%;
