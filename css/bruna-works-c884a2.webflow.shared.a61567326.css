@@ -5624,6 +5624,7 @@ figcaption {
 
 .video {
   max-width: 100%;
+  aspect-ratio: 16 / 9;
 }
 
 .div-block-28 {
