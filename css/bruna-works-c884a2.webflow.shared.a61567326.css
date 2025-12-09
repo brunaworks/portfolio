@@ -5400,7 +5400,7 @@ figcaption {
 .imagem.sobre {
   order: 0;
   align-self: auto;
-  width: 40%;
+  width: 50%;
   min-height: auto;
   overflow: auto;
 }
