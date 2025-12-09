@@ -5625,7 +5625,7 @@ figcaption {
 }
 
 .video {
-  max-width: 60%;
+  max-width: 100%;
 }
 
 .div-block-28 {
@@ -5938,10 +5938,6 @@ figcaption {
 
   .code-embed-3 {
     aspect-ratio: 16 / 9;
-  }
-
-  .video {
-    min-width: 40em;
   }
 
   .video-2 {
@@ -6581,8 +6577,7 @@ figcaption {
   }
 
   .video {
-    min-width: 36em;
-    max-width: 55rem;
+    max-width: 100%;
   }
 
   .paragraph {
