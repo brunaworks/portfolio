@@ -5,8 +5,6 @@ Sou Bruna Nascimento, designer especializada em **motion design, 3D e experiênc
 
 > ⚠️ Todos os projetos estão em constante atualização.
 
-Email: [brunaconsidera2@gmail.com]
-
 # Link para o site
 
 [Site portfolio](https://brunaworks.github.io/portfolio/)
