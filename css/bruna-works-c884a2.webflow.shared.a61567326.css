@@ -5628,11 +5628,9 @@ figcaption {
 }
 
 .div-block-28 {
-  justify-content: center;
-  align-self: center;
-  align-items: center;
-  width: 100%;     
-  display: block;
+  width: 100%;
+  max-width: 940px;
+  margin: 0 auto;
 }
 
 @media (max-width: 991px) {
