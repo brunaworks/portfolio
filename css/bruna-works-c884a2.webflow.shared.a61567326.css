@@ -7468,11 +7468,3 @@ figcaption {
   }
 }
 
-@media screen and (min-width: 1200px) {
-  .video {
-    width: 40%;
-    margin: 0 auto;
-    position: relative;
-    aspect-ratio: 16 / 9;
-  }
-}
