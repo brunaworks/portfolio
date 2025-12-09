@@ -5396,7 +5396,7 @@ figcaption {
 .imagem.sobre {
   order: 0;
   align-self: auto;
-  width: 50%;
+  width: 100%;
   min-height: auto;
   overflow: auto;
 }
@@ -5705,9 +5705,9 @@ figcaption {
   max-width: 70%;
 }
 
-@media (max-width: 991px) {
+@media (min-width: 991px) {
   .image.sobre {
-  max-width: 100% !important;
+  max-width: 50%;
   }
 }
 
