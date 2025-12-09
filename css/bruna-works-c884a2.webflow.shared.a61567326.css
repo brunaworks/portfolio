@@ -5640,7 +5640,7 @@ figcaption {
 
 .video-2 {
   aspect-ratio: 16 / 9;
-  max-width: 70%;
+  max-width: 75%;
 }
 @media (max-width: 991px) {
   .video-2 {
@@ -7096,7 +7096,7 @@ figcaption {
   }
 
   .video {
-    min-width: 25em;
+    min-width: 100%;
   }
 
   .image-10 {
@@ -7344,7 +7344,7 @@ figcaption {
   }
 
   .video {
-    min-width: 16em;
+    min-width: 100%;
   }
 
   .image-10 {
