@@ -5622,18 +5622,17 @@ figcaption {
 
 .video {
   width: 100%;
-  max-width: 940px;
   margin: 0 auto;
   position: relative;
   aspect-ratio: 16 / 9;
 }
 
 .div-block-28 {
-  aspect-ratio: 16 / 9;
   justify-content: center;
   align-self: center;
   align-items: center;
-  width: auto;
+  width: 100%;     
+  max-width: 940px
   display: block;
 }
 
@@ -6607,7 +6606,6 @@ figcaption {
 
   .video {
     width: 100%;
-    max-width: 940px;
     margin: 0 auto;
     position: relative;
     aspect-ratio: 16 / 9;
@@ -7124,7 +7122,6 @@ figcaption {
 
   .video {
     width: 100%;
-    max-width: 940px;
     margin: 0 auto;
     position: relative;
     aspect-ratio: 16 / 9;
@@ -7376,7 +7373,6 @@ figcaption {
 
   .video {
     width: 100%;
-    max-width: 940px;
     margin: 0 auto;
     position: relative;
     aspect-ratio: 16 / 9;
