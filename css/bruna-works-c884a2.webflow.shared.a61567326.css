@@ -5621,7 +5621,7 @@ figcaption {
 }
 
 .video {
-  width: 100%;
+  width: 70%;
   margin: 0 auto;
   position: relative;
   aspect-ratio: 16 / 9;
