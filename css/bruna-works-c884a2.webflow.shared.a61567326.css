@@ -5680,8 +5680,10 @@ figcaption {
   max-width: 70%;
 }
 
-.image.sobre {
+@media (max-width: 991px) {
+  .image.sobre {
   max-width: 100%;
+  }
 }
 
 .bold-text-10, .bold-text-11 {
