@@ -5707,7 +5707,7 @@ figcaption {
 
 @media (min-width: 991px) {
   .image.sobre {
-  max-width: 50%;
+  max-width: 40%;
   }
 }
 
