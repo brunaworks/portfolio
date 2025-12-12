@@ -5419,7 +5419,7 @@ figcaption {
   justify-content: flex-start;
   align-self: flex-start;
   align-items: flex-start;
-  width: 50%;
+  width: 100%;
   display: flex;
 }
 
